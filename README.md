@@ -1,6 +1,6 @@
 
 # Supporting Emergency Room Decision Making with Relevant Scientific Literature 
-# Supervised by: Yassine Benajiba 
+### Supervised by: Yassine Benajiba 
 # Group Members: Liam Spurr,Rohan Shetty , Didugu Sutej, and Mrigank Tiwari
 # Course: Introduction to Statistical NLP 
 # School: The George Washington University  
